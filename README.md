@@ -8,8 +8,7 @@ NodeJS This is just random project that i have create in nodejs nothing especial
 This application is free of virus or malware </br>
 
 <h3>Software Requirment </h3>
-Unity 5.6<br/>
-Unity C#<br/>
+NodeJS<br/>
 
 <h3>Online Application</h3>
 Distribution itch(Web and Desktop): https://goo.gl/Wq1nuD </br>
