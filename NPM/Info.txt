@@ -1,2 +1,8 @@
-to start creating node first you need to execute command
+//To start creating node first you need to execute command
 npm init
+
+//Installing Dependency
+npm install gulp --save  
+
+//To install all the dependency in you json file
+npm install
