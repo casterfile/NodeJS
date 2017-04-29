@@ -26,7 +26,3 @@ YouTube: https://goo.gl/BFZ7C5 </br>
 StackOverFlow: https://goo.gl/J1hFqL </br>
 Github: https://goo.gl/jPHFPe </br>
 
-
-<h3>Application Functions</h3>
-1) Calculator </br>
-2) Convert Number into Word </br>
