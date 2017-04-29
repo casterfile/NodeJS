@@ -1,0 +1,17 @@
+//To start creating node first you need to execute command
+npm init
+
+//Installing Dependency
+npm install gulp --save  
+
+//To install all the dependency in you json file
+npm install
+
+//Installing Express or other plugin
+npm install express --save
+
+//Installing EJS or other plugin
+npm install ejs --save
+
+//create a text file in command line
+copy NUL index.js  
