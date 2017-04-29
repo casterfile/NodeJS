@@ -1,0 +1,2 @@
+to start creating node first you need to execute command
+npm init
