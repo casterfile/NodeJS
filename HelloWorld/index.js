@@ -8,3 +8,5 @@ var myServer = http.createServer(function(request, response){
 });// create server
 
 myServer.listen(3000);
+
+console.log("Go to http://localhost:3000 on your browser");
