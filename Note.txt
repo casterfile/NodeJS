@@ -13,10 +13,19 @@ npm install express --save
 //Installing EJS or other plugin
 npm install ejs --save
 
+//Installing Express Generator global
+npm install -g express-generator
+
+//creating a project using template
+express -e rouxmeet
+//install dependencies: after installing express -e
+cd rouxmeet && npm install  
+//run the app: 
+SET DEBUG=rouxmeet:* & npm start  
+
+
 //create a text file in command line
 copy NUL index.js  
 
-Note before i forget
-Lynda - Building a Website with Node.js and Express.js\03. Using Express.js
 
-video 6
+
